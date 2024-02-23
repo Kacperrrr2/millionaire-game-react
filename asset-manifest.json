@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/millionaire-game-react/static/css/main.118a8180.css",
+    "main.js": "/millionaire-game-react/static/js/main.3c491f84.js",
+    "static/js/350.66d54d5e.chunk.js": "/millionaire-game-react/static/js/350.66d54d5e.chunk.js",
+    "static/js/453.2b0627e5.chunk.js": "/millionaire-game-react/static/js/453.2b0627e5.chunk.js",
+    "static/media/bg.jpg": "/millionaire-game-react/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/millionaire-game-react/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/millionaire-game-react/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/millionaire-game-react/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "static/media/logo.svg": "/millionaire-game-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/millionaire-game-react/index.html",
+    "main.118a8180.css.map": "/millionaire-game-react/static/css/main.118a8180.css.map",
+    "main.3c491f84.js.map": "/millionaire-game-react/static/js/main.3c491f84.js.map",
+    "350.66d54d5e.chunk.js.map": "/millionaire-game-react/static/js/350.66d54d5e.chunk.js.map",
+    "453.2b0627e5.chunk.js.map": "/millionaire-game-react/static/js/453.2b0627e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.118a8180.css",
+    "static/js/main.3c491f84.js"
+  ]
+}
